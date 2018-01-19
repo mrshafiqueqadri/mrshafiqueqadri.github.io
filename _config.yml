@@ -33,12 +33,13 @@ roles:
    start: June 2017
    end: Present
    employer: Barefoot Studio
-   description: Working as Laravel, NodeJS, React-native, Ionic and Angularjs Developer. - title: Software Engineer
+   description: Working as Laravel, NodeJS, React-native, Ionic and Angularjs Developer. 
+ - title: Software Engineer
    start: August 2016
    end: May 2017
    employer: OSO
    description: Worked as Laravel, Ionic and Angularjs Developer.
-- title: Software Engineer
+ - title: Software Engineer
    start: August 2015
    end: August 2016
    employer: Mavenup
