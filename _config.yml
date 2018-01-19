@@ -61,7 +61,7 @@ github:
 #Stackoverflow flair is optional
 stackoverflow:
    profileurl: hhttps://stackoverflow.com/users/6144741/m-shafique-qadri
-   flairimageurl: https://i.stack.imgur.com/k5la5.jpg
+   flairimageurl: https://i.stack.imgur.com/k5la5.jpg?s=48&g=1
 
 #Mobile apps section is optional
 apps:
